@@ -1,0 +1,19 @@
+/*ELEMENTS*/
+ *{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+ 
+a { 
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+header{
+    background-color: darkblue;
+    color: antiquewhite;
+    height: 100px;
+    width: 100%;
+    
+}
